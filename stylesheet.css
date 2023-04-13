@@ -1,5 +1,5 @@
 * {
-  background-color: black;
+  background-color: whitesmoke;
 }
 #header {
   padding: 1.6rem;
@@ -17,10 +17,10 @@
   border: 16px solid green;
 }
 h1 {
-  color: white;
+  color: gray;
 }
 h3 {
-  color: white;
+  color: gray;
 }
 nav {
   padding: 2% 8%;
@@ -38,15 +38,15 @@ nav ul li {
 }
 
 nav ul li a:hover {
-  color: yellow;
+  color: black;
   transition: 0.25s ease-in-out;
 }
 a {
   text-decoration: none;
   font-weight: bold;
   font-size: 1.6rem;
-  color: whitesmoke;
+  color: gray;
 }
 h2 {
-  color: white;
+  color: gray;
 }
