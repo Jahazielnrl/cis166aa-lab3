@@ -22,3 +22,29 @@
   h3 {
     color: white;
   }
+  nav{
+    padding: 2% 8%;
+    display: flex;
+    justify-content: space-between;
+}
+
+nav ul{
+    list-style-type: none;
+
+}
+
+nav ul li{
+    display: inline-block;
+    margin-left: 2.5rem;
+}
+
+nav ul li a:hover{
+    color: yellow;
+    transition: .25s ease-in-out;
+}
+a{
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 1.6rem;
+    color: whitesmoke; 
+}
