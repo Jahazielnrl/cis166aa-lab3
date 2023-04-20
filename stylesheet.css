@@ -6,7 +6,7 @@
   margin: 1.2rem;
   border: 16px solid red;
 }
-#main {
+#main-context {
   padding: 1.6rem;
   margin: 1rem;
   border: 16px solid blue;
@@ -50,3 +50,21 @@ a {
 h2 {
   color: gray;
 }
+table, tr, th,td{
+  border: 1px solid black;
+  border-collapse: collapse;
+  padding: 1.6rem;
+  border-spacing: 1.2rem;
+  text-align: center;
+}
+tr:hover{
+  background-color: red;}
+/* tr{
+  height: 50px;
+
+} */
+#main-content, h2{
+  text-align: center;
+}
+
+

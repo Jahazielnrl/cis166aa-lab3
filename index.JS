@@ -4,3 +4,4 @@ function funct1() {
     $("#image1").fadeToggle("slow","linear");
     
 }
+
