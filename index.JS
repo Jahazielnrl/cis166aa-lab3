@@ -21,3 +21,6 @@ function funct1() {
 ]
 
 }
+let text="Hello world";
+console.log(text)
+
