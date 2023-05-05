@@ -63,8 +63,12 @@ tr:hover{
   height: 50px;
 
 } */
-#main-content, h2{
+#main-content, #rotating-images, h2{
   text-align: center;
+  display: flex;
+  justify-content: center;
+  align-content: center;
 }
+
 
 
