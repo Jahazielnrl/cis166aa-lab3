@@ -6,6 +6,14 @@ function myText() {
   let text = "hello World";
   alert(text);
 }
+function theexpression() {
+  let a = 6;
+  let b = 10;
+  let c = 5;
+  let d = 20;
+  let e = 2;
+  alert(a + b - (c * d) / e);
+}
 
 var i = 0;
 var images = [];
